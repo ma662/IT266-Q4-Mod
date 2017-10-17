@@ -1,0 +1,4 @@
+"Autosave mp/q4dm2"
+"^:Map Start	^0SANDSTORM"
+"gfx/guis/loadscreens/q4dm2"
+nooverwrite

@@ -1,0 +1,4 @@
+"Autosave mp/q4xctf6"
+"^:Map Start	^0CAVERNOUS CRYONICS"
+"gfx/guis/loadscreens/q4xctf6"
+nooverwrite

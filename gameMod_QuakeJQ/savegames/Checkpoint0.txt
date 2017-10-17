@@ -1,0 +1,4 @@
+"Checkpoint0"
+"^:Checkpoint	^0game/quakejq_1"
+""
+nooverwrite
